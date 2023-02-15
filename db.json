@@ -1,0 +1,34 @@
+{
+    "banana":
+    {
+        "data":
+        [
+            {
+                "caseId": 2,
+                "customerId": 818591,
+                "provider": 6111,
+                "createdErrorCode": 324,
+                "status": "Open",
+                "ticketCreationData": "3/14/2019 16:30",
+                "lastModifiedDate": "3/17/2019 3:41",
+                "productName": "BLUE"
+            }
+        ]
+    },
+    "strawberry":
+    {
+        "data":
+        [
+            {
+                "caseId": 2,
+                "customerId": 818591,
+                "provider": 6111,
+                "createdErrorCode": 324,
+                "status": "Open",
+                "ticketCreationData": "3/14/2019 16:30",
+                "lastModifiedDate": "3/17/2019 3:41",
+                "productName": "BLUE"
+            }
+        ]
+    }
+}
